@@ -14,4 +14,3 @@ while num > 0
    num >= 5
     end
   end
-end
