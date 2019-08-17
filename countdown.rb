@@ -6,11 +6,14 @@ def countdown(num)
  end
 end
 
-# def countdown_with_sleep(num)
+while num = 12
+ puts "HAPPY NEW YEARS!"
+end
 
-# while num > 0
-#   puts "5 SECOND(S)!"
-#   num >= 5
-#     end
-#   end
-# end  
+def countdown_with_sleep(num)
+while num > 0
+  puts "5 SECOND(S)!"
+  num >= 5
+    end
+  end
+end  
