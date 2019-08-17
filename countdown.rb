@@ -1,14 +1,11 @@
 def countdown(num)
 
 while num > 0
-
   puts "10 SECOND(S)!"
-  
-
 end
   num-=12
-   "HAPPY NEW YEAR!"
- end 
+  puts "HAPPY NEW YEAR!"
+  end 
 end
 
 
