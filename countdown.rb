@@ -1,5 +1,3 @@
-
-
 def countdown(num)
 
 while num > 0
@@ -18,9 +16,7 @@ def countdown_with_sleep(num)
 
 while num > 0
    puts "5 SECOND(S)!"
-   sleep(1)
    num -= 1
     end
   end
 end
-  "HAPPY NEW YEAR!"
