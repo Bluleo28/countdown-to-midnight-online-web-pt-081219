@@ -16,8 +16,8 @@ end
 
  while num > 0
 
-   puts "#{num} SECOND(S)!"
-  sleep(1)
+   puts "12 SECOND(S)!"
+  sleep(5)
   num -= 1
 
  end
